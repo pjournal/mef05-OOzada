@@ -31,4 +31,9 @@ The banking industry is one of the data-rich industry. Banks use the market and 
 
 [Link](https://codeburst.io/how-r-is-used-in-data-science-13-real-life-analogies-3f379de5e8ec)
  
+## Visualize the Pandemic with R
+In this project, covid data was visualized using nCov2019 package. The nCov2019 package makes it possible for us to countries access and visualize historical case data of the countries. In this project you can see how to deploy the package, exploration of the data and how to create visuals based by cases.  From this point on it is possible to make inferences like “How many cases will US have in the next 10 days?” or “Is corona virus affecting Hollywood?”. Beside this questions author seeks answers for “Are we still dining out?” To find a answer for this question https://www.opentable.com/state-of-industry which is a web site that provides reservation data. 
+
+[Link](https://towardsdatascience.com/visualize-the-pandemic-with-r-covid-19-c3443de3b4e4)
+
 
