@@ -3,9 +3,6 @@ title: "Onur Özada Week 1 Assignment"
 output: html_document
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
 
 I graduated from Gazi University, Department of Economics in January 2016. I have been working as an auditor at "Yapı Kredi Bank" since 2018. During this time, I audited the commercial and retail branches of the bank, but recently transferred to the operational risk unit. 
 
