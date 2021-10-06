@@ -1,10 +1,6 @@
----
-title: "Onur Özada Week 1 Assignment"
-output: html_document
----
 
 
-I graduated from Gazi University, Department of Economics in January 2016. I have been working as an auditor at "Yapı Kredi Bank" since 2018. During this time, I audited the commercial and retail branches of the bank, but recently transferred to the operational risk unit. 
+I graduated from Gazi University, Department of Economics in January 2016. I have been working as an auditor at "Yapı Kredi Bank" since 2018. During this time, I audited the commercial and retail branches of the bank, but recently transferred to the operational risk unit. During this time, I met SQL due to my job and started to develop myself in this field. I hope to be able to conduct higher quality and more extensive audits with the skills I have gained here.
 
 [Linkedin](https://tr.linkedin.com/in/onur-%C3%B6zada-060a3b138)
 
