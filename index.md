@@ -13,7 +13,7 @@ I graduated from Gazi University, Department of Economics in January 2016. I hav
 The globaltrends package is a package that measures, analyzes and visualizes the distribution of data provided by Google Trends between countries. Google Trends normalizes data based on time but it causes problems when working with large scale of data. globaltrends offers a solution via re-normalization. globaltrends  re-normalizes data from Google Trends by using “object” and “control” keywords. Instead of looking at the raw search volumes on Google Trends, globaltrends package transform them to a search score. 
  ![Formula](https://prnt.sc/1uxt4y1)
 
-The package has two measures for internationalization. One of them is degree of internationalization. It is an indicator that checks if search volumes across the globe. If countries across the globe equally interested in same topic then topic has high level of internationalization. This is a unweighted data so every country counts as same. Second measure is volume of internationalization. It is based how much attention topic is getting on the global level.
+The package has two measures for internationalization. One of them is degree of internationalization. It is an indicator that checks search volumes of the topics across the globe. If countries across the globe equally interested in same topic then topic has high level of internationalization. This is a unweighted data so every country counts as same. Second measure is volume of internationalization. It is based how much attention topic is getting on the global level.
 
 [Link](https://www.youtube.com/watch?v=Kkjkny94dgU&list=PL4IzsxWztPdmHhzrXDAOpq4zS_peAVty2&index=5&ab_channel=RConsortium)
 
