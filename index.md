@@ -1,37 +1,37 @@
-## Welcome to OOzada's GitHub Page
+---
+title: "Onur Özada Week 1 Assignment"
+output: html_document
+---
 
-You can use the [editor on GitHub](https://github.com/pjournal/gh-pages-template/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+I graduated from Gazi University, Department of Economics in January 2016. I have been working as an auditor at "Yapı Kredi Bank" since 2018. During this time, I audited the commercial and retail branches of the bank, but recently transferred to the operational risk unit. 
 
-### Jekyll Themes
+[Linkedin](https://tr.linkedin.com/in/onur-%C3%B6zada-060a3b138)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/pjournal/gh-pages-template/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## globaltrends
 
-### Support or Contact
+The globaltrends package is a package that measures, analyzes and visualizes the distribution of data provided by Google Trends between countries. Google Trends normalizes data based on time but it causes problems when working with large scale of data. globaltrends offers a solution via re-normalization. globaltrends  re-normalizes data from Google Trends by using “object” and “control” keywords. Instead of looking at the raw search volumes on Google Trends, globaltrends package transform them to a search score. 
+ ![Formula](https://prnt.sc/1uxt4y1)
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+The package has two measures for internationalization. One of them is degree of internationalization. It is an indicator that checks if search volumes across the globe. If countries across the globe equally interested in same topic then topic has high level of internationalization. This is a unweighted data so every country counts as same. Second measure is volume of internationalization. It is based how much attention topic is getting on the global level.
+
+[Link](https://www.youtube.com/watch?v=Kkjkny94dgU&list=PL4IzsxWztPdmHhzrXDAOpq4zS_peAVty2&index=5&ab_channel=RConsortium)
+
+## Analyzing NBA Player Data 
+
+The areas where data analytics are used are increasing day by day. In this project author cleans basketball players raw data by using R language. To do this, author starts with cleaning the raw data obtained from basketball-reference.com. Author starts cleaning the data by converting the statistics of the athletes in the "character" format to the "integer" format and deleting the repetitive values. After cleaning the data, he creates a data frame for player stats. Next step is clustering player data. 
+[Link-1](https://www.r-bloggers.com/2018/03/analyzing-nba-player-data-i-getting-data/)
+[Link-2](http://blog.schochastics.net/post/analyzing-nba-player-data-ii-clustering/)
+
+
+
+## Use of R in Banking-Finance
+
+The banking industry is one of the data-rich industry. Banks use the market and customer data they collect to make data-driven decisions. In banking industry R used for credit risk modelling and other forms of risk analytics. R plays an important role in the financial sector as well as the banking sector. R is used for risk measurement adjust risk performance and utilize visualizations.
+
+[Link](https://codeburst.io/how-r-is-used-in-data-science-13-real-life-analogies-3f379de5e8ec)
+ 
+
