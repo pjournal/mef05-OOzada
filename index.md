@@ -1,7 +1,7 @@
 
 ## Week 5
 
-[Izmir Fish Prices Analysis](https://github.com/pjournal/mef05-OOzada/blob/gh-pages/asil.html)
+[Izmir Fish Prices Analysis](asil.html)
 
 
 
