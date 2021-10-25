@@ -1,7 +1,7 @@
 
 ## Week 5
 
-[Izmir Fish Prices Analysis](asil.html)
+[Izmir Fish Prices](asil.html)
 
 
 
